@@ -1,5 +1,6 @@
 h3 {
   text-align: center;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 nav {
@@ -31,6 +32,11 @@ table {
 th,
 td {
   height: 30px;
+}
+
+table th {
+  background-color: #777;
+  color: white;
 }
 
 tr > td {
